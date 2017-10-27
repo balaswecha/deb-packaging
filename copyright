@@ -1,0 +1,12 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: <upstream name of the package>
+Source: <source aka repository of the package>
+
+Files: *
+Copyright: 2017, Swecha.
+
+License: GPL-3
+
+Files: debian/*
+Copyright: 2017 <author name>
+License: AGPL-3
