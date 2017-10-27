@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: social
-Source: https://git.gnu.io/gnu/gnu-social.git
+Source: <source aka repository of the package>
 
 Files: *
 Copyright: 2017, Swecha.
